@@ -5,13 +5,19 @@ The purpose of this analysis was to use PySpark to perform an ETL process on Ama
 
 ## Results
 
+Vine Reviews:
+![image](https://user-images.githubusercontent.com/109561408/202037593-350113a2-20e1-493c-a85e-a487f166f106.png)
+
+Non-Vine Reviews:
+![image](https://user-images.githubusercontent.com/109561408/202037710-91ba9705-f584-4d9c-bc1d-53e0b0db0495.png)
+
 ### Vine Reviews
 
-As shown in the above table, there are 647 total Vine reviews and 74,113 total non-Vine reviews.
+As shown in the above tables, there are 647 total Vine reviews and 74,113 total non-Vine reviews.
 
 ### 5-Star Vine Reviews
 
-As shown in the above table, there are 229 Vine 5-star reviews and 43,217 5-star non-Vine reviews.
+As shown in the above tables, there are 229 Vine 5-star reviews and 43,217 5-star non-Vine reviews.
 
 ### Percentage of 5-Star Vine Reviews
 
